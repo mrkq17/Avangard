@@ -66,6 +66,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Role>ааОсновнаяРоль</Role>
+			<CommonModule>ааПрограммноеИзменениеФорм</CommonModule>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
