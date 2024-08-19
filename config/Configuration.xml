@@ -66,6 +66,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Role>ааОсновнаяРоль</Role>
+			<Document>ааДокумент1</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

@@ -2,3 +2,4 @@
 *.cfe
 config/ConfigDumpInfo.xml
 config/CommonTemplates/**/*.bin
+scripts
