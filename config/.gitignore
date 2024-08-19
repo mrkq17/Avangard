@@ -1,0 +1,4 @@
+*.cf
+*.cfe
+config/ConfigDumpInfo.xml
+config/CommonTemplates/**/*.bin
