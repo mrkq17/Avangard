@@ -2,8 +2,10 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
 	<ConfigVersions>
 		<Metadata name="CommonModule.ааПрограммноеИзменениеФорм" id="6777c3d4-6419-4d47-8e02-48ff53d1669b" configVersion="c5bad095b330d2a0cbe14fa52fbad2fc1c99a4d1"/>
-		<Metadata name="Configuration.Авангард" id="ef026933-5b32-449e-b56a-a64529b5cb32" configVersion="f8e8aa6700d2f18dd90ff0082ec37b5970094b4e"/>
+		<Metadata name="CommonModule.ааПрограммноеИзменениеФорм.Module" id="6777c3d4-6419-4d47-8e02-48ff53d1669b.0" configVersion="675d06b93a714a4fae3a2123b598a81ca4b3a92f"/>
+		<Metadata name="Configuration.Авангард" id="ef026933-5b32-449e-b56a-a64529b5cb32" configVersion="1199dea8cfb05cbd569485dc61351dabdcea371d"/>
 		<Metadata name="Language.Русский" id="93b1f47f-1ce0-43e4-aef9-c49310a723ae" configVersion="2e93ce09602db68d7868bb6ed6255feae857136c"/>
 		<Metadata name="Role.ааОсновнаяРоль" id="dfdbe2b3-729b-4cc7-8091-8ed9b6e06136" configVersion="81ec1f12bb482fc846e1d37432e0b8e19b337a65"/>
+		<Metadata name="Subsystem.ааПрограммноеИзменениеФорм" id="c1634e0c-0625-4d21-8c16-be6dbb99cbff" configVersion="4aaf6fa56c46dce9d98ce4fa28f9aac42de477f9"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

@@ -65,6 +65,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>ааПрограммноеИзменениеФорм</Subsystem>
 			<Role>ааОсновнаяРоль</Role>
 			<CommonModule>ааПрограммноеИзменениеФорм</CommonModule>
 		</ChildObjects>
